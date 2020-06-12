@@ -3,7 +3,9 @@ Recognition of Product Positions on Shelf Images with Deep Learning in Keras / T
 
 
 Introduction
+
 What is a planogram?
+
 Visual description of the retail products' placement on shelves.
 The solution is based on Toward Retail Product Recognition on Grocery Shelves. Back in 2014 they have collected 345 tobacco shelves images from ~40 locations with 4 cameras and have made them available for downloading.  They also cropped over 13,000 products and grouped some of them into 10 brand classes.
 
